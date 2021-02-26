@@ -13,7 +13,7 @@
 </p>
 
 ### Description:   
-Welcome to my Unity Augmented Reality Demo that identifies inanimate objects using raycasting raycasting! There are four objects set at a 
+Welcome to my Unity Augmented Reality Demo that identifies inanimate objects using raycasting! There are four objects set at a 
 fixed position in space.  
 
 ### Instructions:
